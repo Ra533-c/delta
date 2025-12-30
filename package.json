@@ -1,0 +1,19 @@
+{
+  "name": "delta",
+  "version": "1.0.0",
+  "description": "this is a new readme.md file \r this repo is just a demo repo for git class .",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
